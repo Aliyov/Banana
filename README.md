@@ -1,2 +1,4 @@
 # Banana
-#Demo
+#DEMO
+
+This is just Banana.
